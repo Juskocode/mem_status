@@ -4,7 +4,7 @@
 OUTPUT_FILE="./memory_usage.txt"
 ECHO_ENABLED=0
 SHOW_COLORS=1
-MAX_ENTRIES=0
+MAX_ENTRIES=50
 TMP_FILE=$(mktemp)
 
 # Colors
